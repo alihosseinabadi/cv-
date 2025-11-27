@@ -31,7 +31,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, C++, SQL, Object-Oriented Programmin
 Git, GitLab, Linux, Bash Scripting, Power BI, Jupyter Notebooks
 
 **Languages**  
-Persian (Native), English (C1), Turkish (Intermediate), Arabic (Basic), Pashtu (Intermediate), Russian (Normal)
+Persian (Native), English (advance), Turkish (Intermediate), Arabic (Basic), Pashtu (Intermediate), Russian (Normal)
 
 ---
 
@@ -39,13 +39,13 @@ Persian (Native), English (C1), Turkish (Intermediate), Arabic (Basic), Pashtu (
 
 [**GitHub Portfolio**](https://github.com/alihosseinabadi) - *12+ Diverse ML & AI Projects*
 
-#### 🔬 LLM API Integration Projects
+#### LLM API Integration Projects
 - **Intelligent Chat Systems** - Ollama and GigaChat API implementations
 - **AI-Powered Applications** - ChatGPT integration for smart solutions
 - **Custom Model Deployment** - Local and cloud-based LLM systems
 - **API-Driven Automation** - Intelligent workflow optimization
 
-#### 🚀 Core Competencies
+#### Core Competencies
 - End-to-End ML Deployment with LLM integration
 - Classical ML Mastery enhanced with AI capabilities  
 - C++ Foundations for high-performance systems
@@ -79,4 +79,4 @@ PASSYOS Company | 2020-2022
 
 ---
 
-*Building intelligent systems that transform data into actionable insights*
+
