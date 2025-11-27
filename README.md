@@ -1,4 +1,4 @@
-```markdown
+
 # Ali Hosseinabadi
 ### Data Scientist | Machine Learning Engineer
 
@@ -56,4 +56,3 @@ PASSYOS Company | 2020-2022
 - **School 21 (Школа 21) Moscow** - Data Scientist Track
 - **RUDN University** - Information Technology and Informatics (2024 – Present)
 - **İstinye University** - Software Engineering (2022-2024)
-```
