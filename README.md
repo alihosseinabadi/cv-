@@ -1,80 +1,85 @@
-# Ali Hosseinabadi 
-## Data Scientist | Machine Learning Engineer
+# Али Хоссейнабади
+## Data Scientist | Инженер Машинного Обучения
+
+<br>
+<br>
+
 ---
 
-### Contact
+### Контакты
 **Email**: Hosseinabadiia@gmail.com  
-**Phone**: +7 999 000 4136 (Russia) | +90 534 366 80 47 (Turkey)  
+**Телефон**: +7 999 000 4136 (Россия) | +90 534 366 80 47 (Турция)  
 **LinkedIn**: [linkedin.com/in/ali-hosseinabadi](https://www.linkedin.com/in/ali-hosseinabadi-92781b259)  
 **GitHub**: [github.com/alihosseinabadi](https://github.com/alihosseinabadi)
 
 ---
 
-### Professional Summary
-Impact-Driven Data Scientist specializing in end-to-end Machine Learning lifecycle and intelligent system development. Expertise in transforming complex data into deployed, actionable products using Python, Scikit-learn, and Large Language Models. Portfolio of 10+ diverse ML projects with formal training from School 21.
+### Профессиональное Резюме
+Data Scientist, специализирующийся на полном цикле машинного обучения и разработке интеллектуальных систем. Экспертиза в преобразовании сложных данных в развернутые продукты с использованием Python, Scikit-learn и больших языковых моделей. Портфолио включает 12+ разнообразных ML проектов с формальным обучением в Школе 21.
 
 ---
 
-### Technical Expertise
+### Технические Навыки
 
-**Machine Learning & AI**  
-Scikit-learn, Supervised/Unsupervised Learning, Classification, Regression, Clustering, Predictive Modeling
+**Машинное Обучение и ИИ**  
+Scikit-learn, Обучение с учителем/без учителя, Классификация, Регрессия, Кластеризация, Прогнозное моделирование
 
-**Large Language Models**  
-Ollama, GigaChat, ChatGPT API Integration, Intelligent System Development
+**Большие Языковые Модели**  
+Ollama, GigaChat, Интеграция ChatGPT API, Разработка интеллектуальных систем
 
-**Programming**  
-Python, Pandas, NumPy, Matplotlib, Seaborn, C++, SQL, Object-Oriented Programming
+**Программирование**  
+Python, Pandas, NumPy, Matplotlib, Seaborn, C++, SQL, Объектно-ориентированное программирование
 
-**DevOps & Tools**  
+**DevOps и Инструменты**  
 Git, GitLab, Linux, Bash Scripting, Power BI, Jupyter Notebooks
 
-**Languages**  
-Persian (Native), English (C1), Turkish (Intermediate), Arabic (Basic), Pashtu (Intermediate), Russian (Normal)
+**Языки**  
+Персидский (Родной), Английский (C1), Турецкий (Средний), Арабский (Базовый), Пушту (Средний), Русский (Средний)
 
 ---
 
-### Special Projects
+### Специальные Проекты
 
-[**GitHub Portfolio**](https://github.com/alihosseinabadi) - *10+ Diverse ML & AI Projects*
+[**Портфолио GitHub**](https://github.com/alihosseinabadi) - *12+ Разнообразных ML и AI Проектов*
 
-#### LLM API Integration Projects
-- **Intelligent Chat Systems** - Ollama and GigaChat API implementations
-- **AI-Powered Applications** - ChatGPT integration for smart solutions
-- **Custom Model Deployment** - Local and cloud-based LLM systems
-- **API-Driven Automation** - Intelligent workflow optimization
+#### Проекты Интеграции LLM API
+- **Интеллектуальные чат-системы** - Реализации API Ollama и GigaChat
+- **Приложения на основе ИИ** - Интеграция ChatGPT для умных решений
+- **Развертывание пользовательских моделей** - Локальные и облачные LLM системы
+- **Автоматизация на основе API** - Оптимизация интеллектуальных рабочих процессов
 
-#### Core Competencies
-- End-to-End ML Deployment with LLM integration
-- Classical ML Mastery enhanced with AI capabilities  
-- C++ Foundations for high-performance systems
-- Intelligent API development and deployment
-
----
-
-### Professional Experience
-
-**Technical Analyst & Consultant**  
-PASSYOS Education Center | 2022-2024
-
-- Applied ML and AI techniques for student performance tracking
-- 35% enrollment growth through data-driven insights and intelligent systems
-- Automated workflows with Linux/Bash scripts and API integrations
-- Git version control & technical documentation
-
-**Content Creator & Consultant**  
-PASSYOS Company | 2020-2022
-
-- Multilingual content management (Persian/Turkish/English)
-- Cross-cultural training & documentation
-- AI-assisted content development
+#### Основные Компетенции
+- End-to-End развертывание ML с интеграцией LLM
+- Классическое ML с расширенными возможностями ИИ
+- Основы C++ для высокопроизводительных систем
+- Разработка и развертывание интеллектуальных API
 
 ---
 
-### Education
-- **School 21 (Школа 21) Moscow** - Data Scientist Track
-- **RUDN University** - Information Technology & Informatics (2024 – Present)
-- **İstinye University** - Software Engineering (2022-2024)
+### Профессиональный Опыт
+
+**Технический Аналитик и Консультант**  
+Образовательный центр PASSYOS | 2022-2024
+
+- Применение ML и AI методов для отслеживания успеваемости студентов
+- Рост enrollment на 35% через data-driven аналитику и интеллектуальные системы
+- Автоматизация рабочих процессов с Linux/Bash скриптами и интеграцией API
+- Контроль версий Git и техническая документация
+
+**Создатель Контента и Консультант**  
+Компания PASSYOS | 2020-2022
+
+- Многоязычное управление контентом (Персидский/Турецкий/Английский)
+- Кросс-культурное обучение и документация
+- Разработка контента с помощью ИИ
 
 ---
 
+### Образование
+- **Школа 21 (Школа 21) Москва** - Data Scientist Track
+- **РУДН Университет** - Информационные технологии и информатика (2024 – Настоящее время)
+- **Университет Истинье** - Программная инженерия (2022-2024)
+
+---
+
+*Создание интеллектуальных систем, преобразующих данные в полезные insights*
