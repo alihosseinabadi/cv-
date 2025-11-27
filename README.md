@@ -80,4 +80,3 @@ PASSYOS Company | 2020-2022
 
 ---
 
-*Building intelligent systems that transform data into actionable insights*
