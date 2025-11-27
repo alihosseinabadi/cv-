@@ -12,7 +12,7 @@
 ---
 
 ### Professional Summary
-Impact-Driven Data Scientist specializing in end-to-end Machine Learning lifecycle and intelligent system development. Expertise in transforming complex data into deployed, actionable products using Python, Scikit-learn, and Large Language Models. Portfolio of 12+ diverse ML projects with formal training from School 21.
+Impact-Driven Data Scientist specializing in end-to-end Machine Learning lifecycle and intelligent system development. Expertise in transforming complex data into deployed, actionable products using Python, Scikit-learn, and Large Language Models. Portfolio of 6+ diverse ML projects with formal training from School 21.
 
 ---
 
@@ -37,7 +37,7 @@ Persian (Native), English (advance), Turkish (Intermediate), Arabic (Basic), Pas
 
 ### Special Projects
 
-[**GitHub Portfolio**](https://github.com/alihosseinabadi) - *12+ Diverse ML & AI Projects*
+[**GitHub Portfolio**](https://github.com/alihosseinabadi) - *10+ Diverse ML & AI Projects*
 
 #### LLM API Integration Projects
 - **Intelligent Chat Systems** - Ollama and GigaChat API implementations
