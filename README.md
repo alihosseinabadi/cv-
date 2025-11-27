@@ -1,6 +1,9 @@
 # Ali Hosseinabadi
 ## Data Scientist | Machine Learning Engineer
 
+<br>
+<br>
+
 ---
 
 ### Contact
@@ -12,7 +15,7 @@
 ---
 
 ### Professional Summary
-Impact-Driven Data Scientist specializing in end-to-end Machine Learning lifecycle and intelligent system development. Expertise in transforming complex data into deployed, actionable products using Python, Scikit-learn, and Large Language Models. Portfolio of 6+ diverse ML projects with formal training from School 21.
+Impact-Driven Data Scientist specializing in end-to-end Machine Learning lifecycle and intelligent system development. Expertise in transforming complex data into deployed, actionable products using Python, Scikit-learn, and Large Language Models. Portfolio of 10+ diverse ML projects with formal training from School 21.
 
 ---
 
@@ -31,7 +34,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, C++, SQL, Object-Oriented Programmin
 Git, GitLab, Linux, Bash Scripting, Power BI, Jupyter Notebooks
 
 **Languages**  
-Persian (Native), English (advance), Turkish (Intermediate), Arabic (Basic), Pashtu (Intermediate), Russian (Normal)
+Persian (Native), English (C1), Turkish (Intermediate), Arabic (Basic), Pashtu (Intermediate), Russian (Normal)
 
 ---
 
@@ -79,4 +82,4 @@ PASSYOS Company | 2020-2022
 
 ---
 
-
+*Building intelligent systems that transform data into actionable insights*
