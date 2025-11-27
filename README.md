@@ -1,9 +1,7 @@
-# Ali Hosseinabadi
+# Ali Hosseinabadi <br>
+<br>
+
 ## Data Scientist | Machine Learning Engineer
-
-<br>
-<br>
-
 ---
 
 ### Contact
